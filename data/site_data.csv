@@ -1,0 +1,7 @@
+location	state	site	day	month	year	total_tree_ba	pitch_pine_area_per_ground_area	pitch_pine_stand_no	total_no_pitch_pine
+Concord	MA	Bristers_flat	16	5	2021	5.978465931	0.161772727	75	90
+Concord	MA	Bristers_Hill	16	5	2021	10.10716327	0.351386364	72	118
+Concord	MA	Fairyland_Overlook	17	5	2021	29.9080581	0.423975	46	90
+Long_Island	NY	RPMBT	4	5	2022	4.566239548	0.18245	31	50
+Long_Island	NY	RPRCA	5	5	2022	1.661850773	0.24309	58	68
+Long_Island	NY	RPUNIT14	6	5	2022	4.35457585	0.354	45	77

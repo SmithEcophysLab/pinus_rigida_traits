@@ -20,12 +20,17 @@ PTT award (P20AP00312).
 All data were collected by Jeff Licht.
 
 ## Repository structure
-
+- The [data](data) folder contains individual- and site-level data in the following files:
+	- Individual: [data/individual_data.csv](data/individual_data.csv)
+	- Site: [data/site_data.csv](data/site_data.csv)
+- The [data](data) folder also contains individual- and site-level metadata in the following files:
+	- Individual: [data/individual_metadata.md](data/individual_metadata.md)
+	- Site: Individual: [data/site_metadata.md](data/site_metadata.md)
 
 ## DOI tag
 
 
 ## Contact information
-Questions about the repository may be directed to Nick Smith (nick.smith@ttu.edu) or Jeff
-Licht (jefflicht64@gmail.com).
-
+Questions about the repository may be directed to Nick Smith 
+([mailto:nick.smith@ttu.edu](nick.smith@ttu.edu)) or Jeff
+Licht ([mailto:jefflicht64@gmail.com](jefflicht64@gmail.com)).
